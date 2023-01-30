@@ -7,4 +7,4 @@
 
 -My Leetcode profile
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kinkaid?ext=heatmap?)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kinkaid?ext=heatmap)
