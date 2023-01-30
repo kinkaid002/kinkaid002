@@ -11,4 +11,4 @@
 
 ### My Codeforces Stats
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
+https://run.kaist.ac.kr/badges/codeforces/Varun_Kalbhore.svg
