@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kinkaid)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 <!--
 **kinkaid002/kinkaid002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
