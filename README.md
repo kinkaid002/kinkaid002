@@ -9,6 +9,3 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kinkaid?ext=heatmap)
 
-### My Codeforces Stats
-
-https://run.kaist.ac.kr/badges/codeforces/Varun_Kalbhore.svg
