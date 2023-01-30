@@ -5,6 +5,10 @@
 - 👯 I am currently working on docker, ML algorithms and Wordpress
 
 
--My Leetcode profile
+## My Leetcode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kinkaid?ext=heatmap)
+
+### My Codeforces Stats
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Varun_Kalbhore&theme=1)
